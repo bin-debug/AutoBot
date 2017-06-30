@@ -25,6 +25,7 @@ Microsoft Visual Studio 2015
 Bot Framework Project Template
 Xamarin
 DOTNET Core
+NB: Please remember to restore all solution packages
 ```
 
 
