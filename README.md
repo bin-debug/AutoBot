@@ -1,6 +1,6 @@
 # Welcome to AutoBot
 
-This is a chat application powered by Microsoft Bot Framework and .NET Core that provides the main functions you'd expect when trying to search for BMW Select Vehicles. 
+This is a chat application powered by Microsoft Bot Framework and .NET Core that provides the main functions you'd expect when trying to search for BMW Select Vehicles. (only to be used for educational demo purposes)
 
 ![webp net-gifmaker](https://user-images.githubusercontent.com/24914682/27386044-d3c3c358-5694-11e7-8b77-c5a722e166b9.gif)
 
