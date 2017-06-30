@@ -47,6 +47,7 @@ namespace Api.Repositories
             return cars;
         }
 
+        // get the values from the html classes provided.
         private List<Car> ProcessHtml(List<HtmlNode> html)
         {
             if (html.Count == 0)
@@ -96,6 +97,7 @@ namespace Api.Repositories
             return cars;
         }
 
+        // helper method to extract the inner text of html classes 
         private string GetNodeDetails(HtmlNode node, string element)
         {
             if(node == null || string.IsNullOrEmpty(element))
