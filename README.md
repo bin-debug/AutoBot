@@ -37,7 +37,7 @@ NB: Please remember to restore all solution packages
 
 Links
 ----
-[Add Bot to Skype](https://join.skype.com/bot/925afb34-bc29-4aca-ae7f-d91c09bc9b74)
+[Add Bot to Skype, some features may not work as I am still awaiting approval from the Skpe team.](https://join.skype.com/bot/925afb34-bc29-4aca-ae7f-d91c09bc9b74)
 
 [Live Preview](http://www.nivash.co.za/autobot)
 
